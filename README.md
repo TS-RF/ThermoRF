@@ -111,16 +111,6 @@ Feature pairs: P03-P04,P05-P06   # Use P01-P14 codes
 - **Interactive Mode**: User selects fault types, samples, and feature pairs
 - **Batch Processing**: Multi-class analysis support
 
-### Feature Encoding
-
-All plots use **P01-P14** standardized codes:
-
-- P01: Cylinder-Pre
-- P02: Cylinder-Tem
-- P03: BlowBy
-- P04: HeadWallHeatFlow
-- ... (14 features total)
-
 ---
 
 ## Advanced Usage
