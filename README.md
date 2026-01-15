@@ -194,7 +194,7 @@ P07: PistWallHeatFlow      P14: Out-Tem
 
 ## Note on Reproducibility
 
-> ⚠️ **Important**: The results produced by this implementation may differ slightly from those reported in the paper, although the overall accuracy remains comparable (~99%). This is due to:
+> ⚠️ **Important**: The results produced by this implementation may differ slightly from those reported in the paper, although the overall accuracy remains comparable. This is due to:
 >
 > - **Library version differences**: Variations in scikit-learn, SHAP, and other dependency versions
 > - **Random state sensitivity**: Minor differences in random number generation across platforms
